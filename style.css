@@ -107,9 +107,9 @@ footer{
 .stars{
     text-align: center;
 }
-a{
+/* a{
     color:black;
-}
+} */
 li{
     list-style-type: none;
     position: absolute;
@@ -155,4 +155,8 @@ li{
 
 .footwork{
     text-align: center;
+}
+
+.footteerr{
+    color:black;
 }
